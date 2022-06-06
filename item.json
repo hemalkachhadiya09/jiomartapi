@@ -1,0 +1,142 @@
+[
+    {
+        
+        "Category_id": 1,
+        "Product_name": "Men's T-Shirts",
+        "Category": "Men's Wear",
+        "Product_id":1,
+        "Price": 999,
+        "Size": "XL",
+        "Image": "https://i.ibb.co/vjcc3h4/Nike-01.jpg",
+        "Color": "Black",
+        "Brand": "Nike",
+	  "Rating":678,
+        "Info":"Men Grey & Black AS M NSW SO 3 HBR TEE Printed Pure Cotton T-shirt"	
+    },
+   	  {
+        
+          "Category_id": 1,
+          "Product_name": "Men's T-Shirts",
+          "Category": "Men's Wear",
+          "Product_id":2,
+          "Price": 1499,
+          "Size": "S",
+          "Image": "https://i.ibb.co/DkDhJzF/Adidas-Tshirts.jpg",
+          "Color": "Black",
+          "Brand": "Adidas",
+	    "Rating":213,
+	    "Info":"Men Grey Melange AS Dry LGD 2.0 T-shirt"	
+    },
+     {
+        
+        "Category_id": 1,
+        "Product_name": "Men's Shirts",
+        "Category": "Men's Wear",
+        "Product_id":3,
+        "Price": 780,
+        "Size": "XL",
+        "Image": "https://i.ibb.co/QmnLrTQ/LP-Shirt.jpg",
+        "Color": "White",
+        "Brand": "LP",
+	  "Rating":456,
+	  "Info":"Men White Solid Slim Fit Formal Pure Cotton Shirt"	
+    },
+	{
+        
+        "Category_id": 2,
+        "Product_name": "Women's Shirts",
+        "Category": "Women's Wear",
+        "Product_id":4,
+        "Price": 1200,
+        "Size": "M",
+        "Image": "https://i.ibb.co/QmnLrTQ/LP-Shirt.jpg",
+        "Color": "White",
+        "Brand": "LP",
+	  "Rating":344,
+	  "Info":"Women Peach-Coloured Self-Design Polo Collar T-shirt"	
+    },
+    {
+        
+        "Category_id": 2,
+        "Product_name": "Women's T-Shirts",
+        "Category": "Women's Wear",
+        "Product_id":5,
+        "Price": 599,
+        "Size": "S",
+        "Image": "https://i.ibb.co/6tBPwLv/Nike-02.jpg",
+        "Color": "White",
+        "Brand": "Nike",
+	  "Rating":750,
+	  "Info":"Women Peach-Coloured Self-Design Polo Collar T-shirt"	
+    },
+    {
+        
+        "Category_id": 6,
+        "Product_name": "Amul Ghee",
+        "Category": "Dairy",
+        "Product_id":6,
+        "Price": 450,
+        
+        "Image": "https://i.ibb.co/mTW82fm/AmulGhee.jpg",
+        "Rating":100,
+	  "Info":"Amul Pure Ghee 1 L (Pouch)"	
+        
+	  
+    },
+   {
+        
+        "Category_id": 13,
+        "Product_name": "Watermelon",
+        "Category": "Fruits",
+        "Product_id":7,
+        "Price": 30,
+        
+        "Image": "https://i.ibb.co/470G26j/fruits.png",
+	  "Info":"Fresh WaterMelon 1 KG"	
+        
+        
+	  
+    },
+{
+        
+        "Category_id": 9,
+        "Product_name": "Detergent",
+        "Category": "HomeCare",
+        "Product_id":8,
+        "Price": 789,
+        
+        "Image": "https://i.ibb.co/hXkDpBg/Detergent.jpg",
+	  "Info":"Surf Excel Powder 4 kg (Get 2 kg Free)"	
+        
+        
+	  
+    },
+   {
+        
+        "Category_id": 12,
+        "Product_name": "Kissan Souce",
+        "Category": "Bakery",
+        "Product_id":9,
+        "Price": 123,
+        
+        "Image": "https://i.ibb.co/Hp1YnBW/kissan.jpg",
+        "Info":"Kissan Fresh Tomato Ketchup 950 g"	
+        
+        
+	  
+    },
+    {
+        
+        "Category_id": 10,
+        "Product_name": "Water Pump Gun",
+        "Category": "Toys",
+        "Product_id":10,
+        "Price": 150,
+        
+        "Image": "https://i.ibb.co/jZ3f56F/Holi.jpg",
+        "Info":"Toys Holi Plastic Water Pump Gun"	
+        
+        
+	  
+    }
+]

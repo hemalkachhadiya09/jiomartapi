@@ -1,0 +1,81 @@
+[
+    {
+        
+	  "category_id":1,
+        "category": "Men's Wear",
+	  "product_image":"https://i.ibb.co/Mc9v8cp/men.jpg"
+    },
+    {
+        
+	  "category_id":2,
+        "category":"Women's Wear",
+	  "product_image":"https://i.ibb.co/2sFS8Vs/women.jpg"
+    },
+     {
+       
+       "category_id":3,
+        "category":"kid's Wear",
+	  "product_image":"https://i.ibb.co/h9wtBGW/kids.jpg"
+    },
+    {
+        
+       "category_id":4,
+        "category":"Atta & Flours",
+	  "product_image":"https://i.ibb.co/xgKXhhg/Atta.jpg"
+    },
+     {
+        
+	  "category_id":5,
+        "category":"Biscuits & Cookies",
+	  "product_image":"https://i.ibb.co/KLHPztz/Biscuits.jpg"
+    },
+     {
+        
+        "category_id":6,
+        "category":"Dairy",
+	  "product_image":"https://i.ibb.co/f27bLdL/Dairy.jpg"
+    },
+     {
+        
+	 "category_id":7,
+        "category":"Tea",
+	  "product_image":"https://i.ibb.co/6r81pXm/Tea.jpg"
+    },
+     {
+        
+	  "category_id":8,
+        "category":"Shampoo & Conditioners",
+	  "product_image":"https://i.ibb.co/chC7DZK/Shampoo.jpg"
+    },
+   {
+        
+	  "category_id":9,
+        "category":"HomeCare",
+	  "product_image":"https://i.ibb.co/mcWMzwD/Homecare.png"
+    },
+    {
+        
+	  "category_id":10,
+        "category":"Toys",
+	  "product_image":"https://i.ibb.co/jZ3f56F/Holi.jpg"
+    },
+   {
+        
+	  "category_id":11,
+        "category":"baby care",
+	  "product_image":"https://i.ibb.co/w6rg050/baby-care.png"
+    },
+   {
+        
+	  "category_id":12,
+        "category":"Bakery",
+	  "product_image":"https://i.ibb.co/567GZ94/Bakery.png"
+    },
+   {
+        
+	  "category_id":13,
+        "category":"Fruits",
+	  "product_image":"https://i.ibb.co/470G26j/fruits.png"
+    }
+   	 
+]
