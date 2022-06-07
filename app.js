@@ -136,6 +136,31 @@ app.get('/filterRating/:categoryId',(req,res)=>{
        res.send(result)
      })
 })
+app.get('/ratedItem',(req,res)=>{
+
+    let sort={Rating:-1};
+    
+    if(req.query.sort)
+    {
+        sort={Rating:req.query.sort}
+    }
+    
+    
+ 
+
+
+    db.collection('items').find().sort(sort).toArray((err,result)=>{
+       if(err) throw err;
+       res.send(result)
+     })
+})
+app.get('/order',(req,res)=>{
+
+    db.collection('order').find().toArray((err,result)=>{
+       if(err) throw err;
+       res.send(result)
+     })
+}) 
 app.post('/placeOrder',(req,res) => {
 
     db.collection('order').insert(req.body,(err,result) => {

@@ -10,7 +10,7 @@
 http://localhost:6778/category
 
 >Top Rated items
- http://localhost:6778/filterRating/1?sort=-1
+ http://localhost:6778/ratedItem
 
 
 ///Page-2
@@ -47,5 +47,5 @@ http://localhost:6778/category
 ///Page -4
 
 >Details of placed orders
- localhost:6778/placeOrder
+ localhost:6778/order
  
