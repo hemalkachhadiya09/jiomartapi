@@ -1,5 +1,5 @@
 >>My Live Api On heroku
-  https://jiomartapi.herokuapp.com
+  https://jiomartapi.herokuapp.com/
 
 ///Page-1
 

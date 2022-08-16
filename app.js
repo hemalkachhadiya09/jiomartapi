@@ -168,6 +168,18 @@ app.post('/placeOrder',(req,res) => {
       res.send(result)
     })
   })
+  app.post('/menuItem',(req,res)=>{
+    if(Array.isArray(req.body))
+    {
+      db.collection('menu').find({menu_id:{$in:req.body}}).toArray((err,result)=>{
+        if(err) throw err;
+        res.send(result)
+      })
+    }
+    else{
+      res.send('Invalid Input')
+    }
+  })  
 // app.get('/items/:brandName',(req,res)=>{
      
     
